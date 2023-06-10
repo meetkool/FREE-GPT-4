@@ -71,6 +71,10 @@ Also, comment out the following part of the code that is responsible for startin
 #    return process
 
 #api_process = start_api_server()
+
+...
+
+# api_process.terminate()
 ```
 
 This modification allows the application to interact with the online version of the API. Please ensure you have a stable internet connection if you choose to go this route.
