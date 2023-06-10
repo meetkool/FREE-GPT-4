@@ -3,7 +3,12 @@
 
 A simple chat system using a Python GUI with tkinter, interacting with a GPT-4 model served via a Docker container.
 FREEGPT4 is a python chatbot that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI.
+https://free-gpt-4-api.meet508.tech/ this is the real api 
 
+## How to use the api 
+https://free-gpt-4-api.meet508.tech/?text= (text gos here )
+
+# Install the chat 
 
 ## Requirements
 
